@@ -1,4 +1,4 @@
-# Getting Started: HLS_Stream
+# Getting Started: RTMP_STREAM
 
 #### Instructions:
 1. Update ```ASSEMBLYAI_KEY``` on line 1
